@@ -1,29 +1,31 @@
-#quicksort by Peng
-#!/usr/bin/env python3
+# quicksort by Peng
+# !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-def Quicksort(myList, start, end):
-    if start<end:
+def QuickSort(myList, start, end):
+    if start < end:
         i, j = start, end
         n = myList[i]
 
         while i < j:
-            while (i<j) and (myList[j] >= n):
-                j = j-1
+            while (i < j) and (myList[j] > n):
+                j -= 1
 
-                myList[i] = myList[j]
+            myList[i] = myList[j]
 
-            while (i<j) and (myList[i] <= n):
-                i = i+1
+            while (i < j) and (myList[i] <= n):
+                i += 1
 
-                myList[j] = myList[i]
+            myList[j] = myList[i]
 
-            myList[i] = n
-        Quicksort(myList, start, i - 1)
-        Quicksort(myList, j + 1, end)
+        myList[i] = n
+        QuickSort(myList, start, i - 1)
+        QuickSort(myList, i + 1, end)
     return myList
 
-myList = [49,38,97,65,76,13,27,49]
+
+myList = [1, 4, 7, 1, 5, 5, 3, 85, 34, 75, 23, 75, 2, 0]
+print("initial array:\n", myList)
 print("Quick Sort: ")
-Quicksort(myList,0,len(myList)-1)
+QuickSort(myList, 0, len(myList) - 1)
 print(myList)
