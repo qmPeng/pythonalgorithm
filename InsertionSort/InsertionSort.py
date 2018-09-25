@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-#insertion sort based by Peng
 
 def insertionSort(myList):
     for i in range(1, len(myList)):
