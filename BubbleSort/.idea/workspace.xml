@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="447e4140-ad0c-432d-baa6-a63318a9c64d" name="Default Changelist" comment="" />
+    <list default="true" id="362121d0-b096-403b-ab53-5ecefe5c3adb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,11 +9,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="723799978">
+    <session id="-628590936">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
@@ -29,12 +28,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="443" />
+          <entry key="py" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="443" />
+          <entry key="Python" value="7" />
         </counts>
       </usages-collector>
     </session>
@@ -42,14 +41,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ShellSort.py">
+        <entry file="file://$PROJECT_DIR$/BubbleSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-              <folding>
-                <marker date="1538016669807" expanded="true" signature="71:76" ph="..." />
-                <marker date="1538016669807" expanded="true" signature="317:322" ph="..." />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -66,33 +61,33 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ShellSort.py" />
+        <option value="$PROJECT_DIR$/BubbleSort.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="323" />
-    <option name="y" value="63" />
+    <option name="x" value="202" />
+    <option name="y" value="37" />
     <option name="width" value="1551" />
-    <option name="height" value="858" />
+    <option name="height" value="867" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ShellSort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShellSort" type="462c0819:PsiDirectoryNode" />
+              <item name="BubbleSort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BubbleSort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -108,8 +103,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ShellSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="ShellSort" />
+    <configuration name="BubbleSort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BubbleSort" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -120,7 +115,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShellSort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BubbleSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +126,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ShellSort" />
+        <item itemvalue="Python.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -140,16 +135,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="447e4140-ad0c-432d-baa6-a63318a9c64d" name="Default Changelist" comment="" />
-      <created>1538015061644</created>
+      <changelist id="362121d0-b096-403b-ab53-5ecefe5c3adb" name="Default Changelist" comment="" />
+      <created>1538099694930</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538015061644</updated>
+      <updated>1538099694930</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="323" y="63" width="1551" height="858" extended-state="0" />
+    <frame x="202" y="37" width="1551" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -161,7 +156,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3301105" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3287858" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -175,14 +170,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ShellSort.py">
+    <entry file="file://$PROJECT_DIR$/BubbleSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <marker date="1538016669807" expanded="true" signature="71:76" ph="..." />
-            <marker date="1538016669807" expanded="true" signature="317:322" ph="..." />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
         </state>
       </provider>
     </entry>

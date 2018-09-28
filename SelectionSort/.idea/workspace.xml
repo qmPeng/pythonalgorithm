@@ -12,10 +12,10 @@
     <session id="1469563536">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.42" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SelectionSort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="18" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="540">
+              <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="45" />
               <folding>
                 <marker date="1537919865820" expanded="true" signature="73:78" ph="..." />
               </folding>
@@ -70,7 +70,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="202" />
     <option name="y" value="37" />
     <option name="width" value="1551" />
@@ -139,7 +139,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="202" y="37" width="1551" height="867" extended-state="1" />
+    <frame x="202" y="37" width="1551" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
@@ -167,8 +167,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/SelectionSort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="18" selection-end-line="20" selection-end-column="13" />
+        <state relative-caret-position="540">
+          <caret line="18" selection-start-line="18" selection-end-line="18" selection-end-column="45" />
           <folding>
             <marker date="1537919865820" expanded="true" signature="73:78" ph="..." />
           </folding>
