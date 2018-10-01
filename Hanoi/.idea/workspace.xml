@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9552754d-f3bc-4219-b072-e007f627c6cf" name="Default Changelist" comment="" />
+    <list default="true" id="0452abdf-3dd4-42db-b29a-8ef082f160de" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,10 +9,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-1964948443">
+    <session id="205656893">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -29,12 +28,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="318" />
+          <entry key="py" value="302" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="318" />
+          <entry key="Python" value="302" />
         </counts>
       </usages-collector>
     </session>
@@ -42,12 +41,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/parCheck.py">
+        <entry file="file://$PROJECT_DIR$/Hanoi.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+            <state relative-caret-position="313">
+              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding>
-                <marker date="1538275212040" expanded="true" signature="108:113" ph="..." />
+                <marker date="1538352367481" expanded="true" signature="88:299" ph="..." />
               </folding>
             </state>
           </provider>
@@ -65,13 +64,13 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/parCheck.py" />
+        <option value="$PROJECT_DIR$/Hanoi.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="281" />
-    <option name="y" value="114" />
+    <option name="x" value="156" />
+    <option name="y" value="93" />
     <option name="width" value="1551" />
     <option name="height" value="867" />
   </component>
@@ -80,7 +79,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Hanoi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Hanoi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -97,8 +106,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="parCheck" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="parChecker" />
+    <configuration name="Hanoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Hanoi" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -109,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/parCheck.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hanoi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +129,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.parCheck" />
+        <item itemvalue="Python.Hanoi" />
       </list>
     </recent_temporary>
   </component>
@@ -129,16 +138,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9552754d-f3bc-4219-b072-e007f627c6cf" name="Default Changelist" comment="" />
-      <created>1538274278222</created>
+      <changelist id="0452abdf-3dd4-42db-b29a-8ef082f160de" name="Default Changelist" comment="" />
+      <created>1538351168910</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538274278222</updated>
+      <updated>1538351168910</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="281" y="114" width="1551" height="867" extended-state="0" />
+    <frame x="156" y="93" width="1551" height="867" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -150,8 +159,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3287858" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21828103" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972714" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -164,12 +173,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/parCheck.py">
+    <entry file="file://$PROJECT_DIR$/Hanoi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="7" column="9" lean-forward="true" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state relative-caret-position="313">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding>
-            <marker date="1538275212040" expanded="true" signature="108:113" ph="..." />
+            <marker date="1538352367481" expanded="true" signature="88:299" ph="..." />
           </folding>
         </state>
       </provider>
