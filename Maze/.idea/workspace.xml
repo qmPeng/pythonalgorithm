@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0452abdf-3dd4-42db-b29a-8ef082f160de" name="Default Changelist" comment="" />
+    <list default="true" id="49cab714-722e-49d8-9ec4-b8245cba9f6f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,32 +9,35 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="205656893">
+    <session id="-1725539590">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="py" value="1" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="302" />
+          <entry key="py" value="1246" />
+          <entry key="txt" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="302" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="1246" />
         </counts>
       </usages-collector>
     </session>
@@ -42,13 +45,27 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Hanoi.py">
+        <entry file="file://$PROJECT_DIR$/Maze.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="127">
+              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
               <folding>
-                <marker date="1538352367481" expanded="true" signature="88:299" ph="..." />
+                <marker date="1538447553426" expanded="true" signature="26:31" ph="..." />
+                <marker date="1538447553426" expanded="true" signature="953:957" ph="..." />
+                <marker date="1538447553426" expanded="true" signature="1918:1922" ph="..." />
+                <marker date="1538447553426" expanded="true" signature="1995:1999" ph="..." />
+                <marker date="1538447553426" expanded="true" signature="2357:2361" ph="..." />
+                <marker date="1538447553426" expanded="true" signature="2600:3175" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/map.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -65,13 +82,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Hanoi.py" />
+        <option value="$PROJECT_DIR$/map.txt" />
+        <option value="$PROJECT_DIR$/Maze.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="156" />
-    <option name="y" value="93" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="175" />
+    <option name="y" value="85" />
     <option name="width" value="1551" />
     <option name="height" value="867" />
   </component>
@@ -80,18 +98,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Hanoi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Hanoi" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -107,8 +115,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Hanoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Hanoi" />
+    <configuration name="Maze" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Maze" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -119,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Hanoi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Maze.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +138,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Hanoi" />
+        <item itemvalue="Python.Maze" />
       </list>
     </recent_temporary>
   </component>
@@ -139,20 +147,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0452abdf-3dd4-42db-b29a-8ef082f160de" name="Default Changelist" comment="" />
-      <created>1538351168910</created>
+      <changelist id="49cab714-722e-49d8-9ec4-b8245cba9f6f" name="Default Changelist" comment="" />
+      <created>1538444408537</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538351168910</updated>
+      <updated>1538444408537</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="156" y="93" width="1551" height="867" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.40384614" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
@@ -160,8 +168,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21828103" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39972714" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3264642" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -174,12 +182,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Hanoi.py">
+    <entry file="file://$PROJECT_DIR$/map.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="240">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
           <folding>
-            <marker date="1538352367481" expanded="true" signature="88:299" ph="..." />
+            <marker date="1538447553426" expanded="true" signature="26:31" ph="..." />
+            <marker date="1538447553426" expanded="true" signature="953:957" ph="..." />
+            <marker date="1538447553426" expanded="true" signature="1918:1922" ph="..." />
+            <marker date="1538447553426" expanded="true" signature="1995:1999" ph="..." />
+            <marker date="1538447553426" expanded="true" signature="2357:2361" ph="..." />
+            <marker date="1538447553426" expanded="true" signature="2600:3175" ph="..." />
           </folding>
         </state>
       </provider>
